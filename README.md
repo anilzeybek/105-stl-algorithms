@@ -1,0 +1,1 @@
+This repository contains examples of the algorithms shown in the presentation from ["105 STL Algorithms in Less Than an Hour"](https://www.youtube.com/watch?v=2olsGf6JIkU).
