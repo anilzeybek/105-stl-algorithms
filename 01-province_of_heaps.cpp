@@ -2,16 +2,8 @@
 #include <algorithm>
 #include <iostream>
 #include <numeric>
+#include "common.h"
 
-template<typename T>
-void print_vector(std::vector<T> v) {
-    for (auto e: v)
-        std::cout << e << " ";
-
-    std::cout << std::endl;
-    std::cout << std::endl;
-
-}
 
 void make_heap_demo() {
     std::cout << "std::make_heap" << std::endl;

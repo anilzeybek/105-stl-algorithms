@@ -1,16 +1,8 @@
 #include <vector>
 #include <algorithm>
 #include <iostream>
+#include "common.h"
 
-template<typename T>
-void print_vector(std::vector<T> v) {
-    for (auto e: v)
-        std::cout << e << " ";
-
-    std::cout << std::endl;
-    std::cout << std::endl;
-
-}
 
 
 void sort_demo() {
